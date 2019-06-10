@@ -21,3 +21,6 @@ Pickle file of 100 random train test split trained models. LDA, Logistic Regress
 
 model_runs_yearly.p:
 Year based train test spilt trained final Random Forest Model. Zipped files on google drive. Must be unzipped and placed in the same directory as the notebook.
+
+google drive pickle link
+https://drive.google.com/file/d/1lEJ2O2RZH_AfBJhz7YXerVc0wSA5YhFL/view?usp=sharing
