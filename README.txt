@@ -17,7 +17,7 @@ mainStockFrame.csv:
 Dataframe we created from original datasets.
 
 model_runs.p:
-Pickle file of 100 random train test split trained models. LDA, Logistic Regression, and Random Forest.
+Pickle file of 100 random train test split trained models. LDA, Logistic Regression, and Random Forest. Zipped files on google drive. Must be unzipped and placed in the same directory as the notebook.
 
 model_runs_yearly.p:
-Year based train test spilt trained final Random Forest Model
+Year based train test spilt trained final Random Forest Model. Zipped files on google drive. Must be unzipped and placed in the same directory as the notebook.
