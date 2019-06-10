@@ -8,6 +8,10 @@ NOTE: In order to make our code fully runnable including web scraping and data c
 
 FRB_H15.csv, Fundamentals.csv, GDP.csv:
 csvs for all of our pulled data. Described in data section of final report.
+These csvs were pulled from our database via queries like 
+"SELECT * FROM [table name]"
+
+They were uploaded by reading into pandas via read.csv and the "df.to_sql("[table name]") with the optional argument if_exists = replace. At the time when reuploading we chose to replace when we changed the data.
 
 mainStockFrame.csv:
 Dataframe we created from original datasets.
