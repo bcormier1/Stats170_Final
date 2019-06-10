@@ -24,3 +24,7 @@ Year based train test spilt trained final Random Forest Model. Zipped files on g
 
 google drive pickle link
 https://drive.google.com/file/d/1lEJ2O2RZH_AfBJhz7YXerVc0wSA5YhFL/view?usp=sharing
+
+
+Insturctions:
+All files must be in the same directory. Unzip pickle files and place in directory as well.  All code can be run from the jupyter notebook Final Full Notebook.ipynb.
