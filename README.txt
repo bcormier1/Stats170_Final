@@ -4,6 +4,8 @@ Jupyter notebook.  Contains sample of code used to read data and build and evalu
 HelperFunctions.py:
 All helper functions written over the course of project development. Contains code necessary for the sample notebook.
 
+NOTE: In order to make our code fully runnable including web scraping and data creation, we modified it to avoid reading/writing to a database. In there are comments in the code describing the changes you would have to revert to in order to use a database.
+
 FRB_H15.csv, Fundamentals.csv, GDP.csv:
 csvs for all of our pulled data. Described in data section of final report.
 
